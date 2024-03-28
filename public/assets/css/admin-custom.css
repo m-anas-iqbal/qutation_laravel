@@ -1,0 +1,86 @@
+.navbar .navbar-item .nav-item.user-profile-dropdown .nav-link svg {
+    fill: #005beb;
+    width: 28px;
+    height: 28px;
+}
+
+.header-container .navbar .navbar-item .nav-item.dropdown .dropdown-menu:after {
+    right: 35px;
+}
+
+.flatpickr-calendar {
+    z-index: 1050 !important;
+}
+
+.apexcharts-canvas {
+    margin: 0 auto;
+}
+
+svg.pdf-file {
+    fill: #1b55e2;
+    width: 24px;
+    height: 24px
+}
+
+svg.pdf-file:hover {
+    fill: #ad0d02;
+}
+
+svg.feather.feather-eye,
+svg.feather.feather-edit-3,
+svg.feather.feather-trash {
+    color: #1b55e2;
+    fill: rgba(27, 85, 226, 0.23921568627450981);
+    width: 18px;
+    height: 18px;
+    stroke-width: 2.5
+}
+
+svg.feather.feather-eye:hover {
+    color: #43d39e;
+    fill: rgba(67, 211, 158, .16);
+}
+
+svg.feather.feather-edit-3:hover {
+    color: #e2a03f;
+    fill: rgba(233, 176, 43, 0.19);
+}
+
+svg.feather.feather-trash:hover {
+    color: #ff5c75;
+    fill: rgba(255, 92, 117, .16);
+}
+
+/*.widget img { max-width: 75px;}*/
+/*.widget svg { max-width: 75px;}*/
+.table>tbody>tr>td {
+    color: #222 !important;
+    font-size: 15px !important;
+    font-weight:300;
+    letter-spacing:0;
+}
+
+.table-hover:not(.table-dark) tbody tr:hover {
+    background-color: #f1f8fe !important;
+}
+
+.bootstrap-tagsinput .tag {
+    background: #1b55e2;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.bootstrap-tagsinput {
+    width: 100%;
+}
+
+.spinner-border {
+    width: 1.4rem;
+    height: 1.4rem;
+    margin-left: 10px;
+}
+
+.widget-header h3 {
+    margin-top: 20px;
+    margin-left: 10px;
+}

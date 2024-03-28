@@ -1,0 +1,33 @@
+.cu-contact-section .contact-form {
+    position: initial;
+    padding-top: 25px
+}
+
+.contact-us {
+    margin: auto;
+    max-width: 480px;
+    box-shadow: 0px 6px 15px rgb(64 79 104 / 26%);
+}
+
+.cu-contact-section {
+    background-color: white;
+    padding: 25px;
+}
+
+.cu-contact-section .contact-form form {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    padding: 5px 15px;
+    margin-top: 0px;
+}
+
+.cu-contact-section .contact-form form input {
+    padding: 8px
+}
+
+.spinner-border {
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-left: 20px;
+}
